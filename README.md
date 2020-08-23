@@ -1,6 +1,6 @@
 # Sokoban
 
-Sokoban is a puzzle video game in which the player pushes crates or boxes around in a warehouse, trying to get them to storage locations.
+Sokoban is a puzzle video game in which the player pushes crates or boxes around in a warehouse, trying to get them to storage locations. This game was developed on Python & Gamelib Library.
 
 ## Installation
 
