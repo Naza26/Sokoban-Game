@@ -7,7 +7,7 @@ Sokoban is a puzzle video game in which the player pushes crates or boxes around
 Make sure to have installed Gamelib library: [Gamelib](https://github.com/dessaya/python-gamelib).
 
 
-Just download `gamelib.py` and place it along your project
+Just download `gamelib.py` and place it along your project.
 
 
 ## Usage
