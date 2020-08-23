@@ -29,7 +29,7 @@ Use the keys to move the player around.
 
 This game includes 155 levels to play.
 
-This is the representation of the game and it´s stuff:
+This is the representation of the game and its stuff:
 
 
 Element | Character
