@@ -25,6 +25,11 @@ Use the keys to move the player around.
 
 ```
 
+## Game
+
+![Image of Sokoban](https://github.com/Naza26/Sokoban-Game/blob/master/Sokoban.png)
+
+
 ## Levels
 
 This game includes 155 levels to play.
